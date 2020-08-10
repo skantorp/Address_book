@@ -1,0 +1,74 @@
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\appsettings.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.deps.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.runtimeconfig.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.runtimeconfig.dev.json
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.dll
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.pdb
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.Views.dll
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\Address Book.Views.pdb
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\DataBase.dll
+D:\mine\Address Book\Address Book\bin\Debug\netcoreapp2.1\DataBase.pdb
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.csprojAssemblyReference.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorAssemblyInfo.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorAssemblyInfo.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.AssemblyInfoInputs.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.AssemblyInfo.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.TagHelpers.input.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.TagHelpers.output.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorCoreGenerate.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorTargetAssemblyInfo.cache
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorTargetAssemblyInfo.cs
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.Views.pdb
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.csproj.CopyComplete
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.dll
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Address Book.pdb
+D:\mine\Address Book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewUsers.cshtml.g.cs
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\appsettings.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.deps.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.runtimeconfig.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.runtimeconfig.dev.json
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.dll
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.pdb
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.Views.dll
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\Address Book.Views.pdb
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\DataBase.dll
+D:\mine\Address_book\Address Book\bin\Debug\netcoreapp2.1\DataBase.pdb
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.csprojAssemblyReference.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorAssemblyInfo.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorAssemblyInfo.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.AssemblyInfoInputs.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.AssemblyInfo.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.TagHelpers.input.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.TagHelpers.output.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorCoreGenerate.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewUsers.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorTargetAssemblyInfo.cache
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.RazorTargetAssemblyInfo.cs
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.Views.pdb
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.csproj.CopyComplete
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.dll
+D:\mine\Address_book\Address Book\obj\Debug\netcoreapp2.1\Address Book.pdb

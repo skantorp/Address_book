@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address Book", "Address Book\Address Book.csproj", "{38B6C497-C781-403E-B69E-F82A180F6B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{FDEA9B4D-748B-4ECE-A0AC-D4DEBB81EFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B6C497-C781-403E-B69E-F82A180F6B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B6C497-C781-403E-B69E-F82A180F6B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B6C497-C781-403E-B69E-F82A180F6B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B6C497-C781-403E-B69E-F82A180F6B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEA9B4D-748B-4ECE-A0AC-D4DEBB81EFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEA9B4D-748B-4ECE-A0AC-D4DEBB81EFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEA9B4D-748B-4ECE-A0AC-D4DEBB81EFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEA9B4D-748B-4ECE-A0AC-D4DEBB81EFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B79F98F-5EFE-4716-AB72-CDC8058DBC9F}
+	EndGlobalSection
+EndGlobal

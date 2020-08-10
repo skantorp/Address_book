@@ -1,0 +1,8 @@
+D:\mine\Address Book\DataBase\bin\Debug\netcoreapp2.1\DataBase.deps.json
+D:\mine\Address Book\DataBase\bin\Debug\netcoreapp2.1\DataBase.dll
+D:\mine\Address Book\DataBase\bin\Debug\netcoreapp2.1\DataBase.pdb
+D:\mine\Address Book\DataBase\obj\Debug\netcoreapp2.1\DataBase.csprojAssemblyReference.cache
+D:\mine\Address Book\DataBase\obj\Debug\netcoreapp2.1\DataBase.AssemblyInfoInputs.cache
+D:\mine\Address Book\DataBase\obj\Debug\netcoreapp2.1\DataBase.AssemblyInfo.cs
+D:\mine\Address Book\DataBase\obj\Debug\netcoreapp2.1\DataBase.dll
+D:\mine\Address Book\DataBase\obj\Debug\netcoreapp2.1\DataBase.pdb
